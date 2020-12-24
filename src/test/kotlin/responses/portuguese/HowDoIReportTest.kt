@@ -5,6 +5,7 @@ class AboutMeResponseTest : PortugueseResponseTestBase(
         "como posso denunciar?",
         "como denunciar?",
         "onde posso denunciar?",
-        "onde denunciar?"
+        "onde denunciar?",
+        "onde denuncio?"
     )
 )
